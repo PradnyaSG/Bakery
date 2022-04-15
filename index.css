@@ -1,0 +1,47 @@
+body
+{
+	background-color: white;
+font-family: "Trirong", serif;
+
+}
+#image_format {
+  border: 2px solid black;
+
+
+  background: url(cook.jpg);
+  background-repeat: no-repeat;
+background-attachment: fixed;
+  background-size: cover;
+font-family: "Trirong", serif;
+
+
+ }
+.special
+{
+   
+	border: 2px solid purple; 
+	width: 20%;
+text-align: center;
+	
+}
+.discount
+{
+	border: 2px solid black;
+	position: absolute;
+	
+    top:205px;
+    left:928px;
+    width: 20%;
+text-align: center;
+ 
+}
+.menu
+{
+	
+  position: absolute;
+  width: 58%;
+  top: 218px;
+  left:245px;
+  text-align: center;
+
+}

@@ -1,2 +1,2 @@
 # Bakery
-A website to sell Bakery products
+A static website to sell Bakery products
